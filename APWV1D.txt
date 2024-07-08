@@ -810,8 +810,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-	[UncommonSlot(0)]
 	[CommonSlot(14)]
 		50 Paint the Streets Defiant
 		50 Scout the Investors
@@ -903,5 +901,4 @@
 		50 Housing Team Forger
 		50 Statue Topplers
 		50 Unseal Delcolinas Cave
-	[BasicSlot(0)]
 	
