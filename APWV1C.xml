@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>APW</name>
+      <longname>Against Power</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Paint the Streets Defiant</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enters the battlefield, choose an opponent to protect it.)
+When Paint the Streets Defiant enters or is defeated, create two 1/1 Rebel creature tokens that are all colors.</text>
+    </card>
+    <card>
+      <name>Scout the Investors</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enters, choose an opponent to protect it.)
+When Scout the Investors enters or is defeated, draw a card.</text>
+    </card>
+    <card>
+      <name>Capture on Camera</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enters the battlefield, choose an opponent to protect it.)
+When Capture on Camera enters or is defeated, each opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>The Torching of Carvhill Prison</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enters, choose an opponent to protect it.)
+When this battle enters or is defeated, it deals 2 damage to target player and 1 damage to up to one target creature they control.</text>
+    </card>
+    <card>
+      <name>Victoria Border Medicine Run</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enter, choose an opponent to protect it.)
+When Victoria Border Medicine Run enters or is defeated, you gain 3 life and return up to one target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Interrupt Arrest</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — Before you shuffle your deck to start the game, you may reveal this card from your deck.
+Interrupt Arrest deals X damage to target blocked or blocking creature, where X is the number of cards you revealed before the game.</text>
+    </card>
+    <card>
+      <name>Into the Streets</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — Before you shuffle your deck to start the game, you may reveal this card from your deck.
+Create X 1/1 Rebel creature tokens that are all colors, where X is half the number of cards you revealed before the game, rounded up.</text>
+    </card>
+    <card>
+      <name>Urban Reclamation</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — Before you shuffle your deck to start the game, you may reveal this card from your deck.
+Return up two target creature cards in your graveyard with total mana value X or less to the battlefield, where X is the number of cards you revealed before the game.</text>
+    </card>
+    <card>
+      <name>Evade the Authorities</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter and a flying counter on target creature. Prevent all damage that would be dealt to it this turn.</text>
+    </card>
+    <card>
+      <name>Afterhours Intruder</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Afterhours Intruder attacks, if you cast a spell during defending player’s last turn, it gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Nourish the Neighborhood</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — Before you shuffle your deck to start the game, you may reveal this card from your deck.
+Until end of turn, target land you control becomes an X/X Citizen creature with haste and trample, where X is the number of cards you revealed before the game. It’s still a land. It must be blocked this turn if able.</text>
+    </card>
+    <card>
+      <name>Borderland Oasis</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — Before you shuffle your deck to start the game, you may reveal this card from your deck.
+Draw X cards, where X is half the number of cards you revealed before the game, rounded up.</text>
+    </card>
+    <card>
+      <name>Zine-Table Firebrand</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lifelink
+Whenever a creature enters under your control, Zine-Table Firebrand deals 1 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Militant Assembly</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Militant Assembly enters, you may search your library for a battle card and reveal it. Shuffle, then put that card on top.
+WWWW: If Militant Assembly has no counters on it, put two +1/+1 counters on it and tap up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Cautious Assembly</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Tap three untapped creatures you control: Tap target creature.
+UUUU: If Cautious Assembly has no counters on it, put two +1/+1 counters and a vigilance counter on it.</text>
+    </card>
+    <card>
+      <name>Bitter Assembly</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bitter Assembly enters, each player discards a card.
+BBBB: If Bitter Assembly has no counters on it, put two +1/+1 counters on it and draw two cards. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Agitative Assembly</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, Agitative Assembly deals 1 damage to each opponent.
+RRRR: If Agitative Assembly has no counters on it, put two +1/+1 counters and a menace counter on it.</text>
+    </card>
+    <card>
+      <name>Steadfast Assembly</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+GGGG: If Steadfast Assembly has no counters on it, put two +1/+1 counters, a trample counter and a hexproof counter on it.</text>
+    </card>
+    <card>
+      <name>Bustling Avenue</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bustling Avenue enters tapped unless you control a basic land.
+{T}: Add {W}.
+1W, Discard Bustling Avenue: Create a 1/1 Rebel creature token that is all colors.</text>
+    </card>
+    <card>
+      <name>Distro Culinaire</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Distro Culinaire enters, put a +1/+1 counter on target creature you control.
+WUBRG: Distro Culinaire deals 3 damage to each opponent and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Flooded Underpass</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Flooded Underpass enters tapped unless you control a basic land.
+{T}: Add {U}.
+{U}, Discard Flooded Underpass: Tap or untap target creature. Surveil 1.</text>
+    </card>
+    <card>
+      <name>Crumbling Alley</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Crumbling Alley enters tapped unless you control a basic land.
+{T}: Add {B}.
+{B}, Discard Crumbling Alley: Exile target card from a graveyard. Each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Roaring Interstate</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Roaring Interstate enters tapped unless you control a basic land.
+{T}: Add {R}.
+{R}, Discard Roaring Interstate: Target creature gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Overgrown Backroad</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Overgrown Backroad enters tapped unless you control a basic land.
+{T}: Add {G}.
+{G}, Discard Overgrown Backroad: Target creature gets +0/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Decentralized Offensive</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if it’s the second spell you cast during an opponent’s turn.
+Put a +1/+1 counter on target creature you control. It fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Scouting Bike</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Scouting Bike enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+Whenever you discard a land card, Scouting Bike becomes a creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Kickflip</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 and gains flying until end of turn.
+1U, Exile Kickflip from your graveyard: Put target instant or sorcery card from your graveyard on top of your library.</text>
+    </card>
+    <card>
+      <name>Switch to a Burner</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. Create a 1/1 Rebel creature token that is all colors.</text>
+    </card>
+    <card>
+      <name>In the Public Eye</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When In the Public Eye enters, draw a card and choose Innocuous or Intimidating.
+• Innocuous — 1/1 Citizen with defender.
+• Intimidating — 3/3 Horror with flying.
+Enchanted creature has the chosen base power and toughness, type, and ability.</text>
+    </card>
+    <card>
+      <name>New Years Noise Demo</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +2/+2 and gains trample until end of turn.
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Post-Convergence Partiers</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one —
+• Destroy target artifact.
+• Create two 1/1 Rebel creature tokens that are all colors. They gain haste until end of turn. Exile the tokens at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Come to Consensus</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vouch 3 (Tap three untapped creatures you control to vouch for this spell as you cast it.)
+Tap target creature and put a stun counter on it. If Come to Consensus was vouched for, that creature’s owner puts it on the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>Camp Rooster</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Camp Rooster gains flying until end of turn.
+1R, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Info-Shop Cat</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Pay 1 life: Return Info-Shop Cat from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Riot Dog</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Riot Dog enters, you may pay 1W. If you do, create a 1/1 Rebel creature token that is all colors and put a +1/+1 counter on the token.</text>
+    </card>
+    <card>
+      <name>Experienced Trespasser</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s not your turn, spells you cast cost {1} less to cast.
+Experienced Trespasser can’t be blocked unless defending player pays {2}.</text>
+    </card>
+    <card>
+      <name>Turnstile Dodger</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Ideology of Negation</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. If a spell is countered this way, exile it instead of putting it anywhere else.</text>
+    </card>
+    <card>
+      <name>Loquacious Ecologist</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>WUBRG: Skillshare. Activate only as a sorcery. (Another target creature you control gains the following ability until end of turn.)
+This creature gets +1/+1 for each differently named land you control.</text>
+    </card>
+    <card>
+      <name>Delegitimize</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature you control with mana value 1 or less. (Face-down creatures and tokens have mana value 0.)
+Destroy target creature or enchantment.</text>
+    </card>
+    <card>
+      <name>Aerial Surveyor</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aerial Surveyor enters, create a 1/1 colorless Drone artifact creature token with flying.
+Whenever an artifact enters under your control, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Supply Drop</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 colorless drone artifact creature tokens with flying.
+You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Angle-Grinder Rascal</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1RR, Discard Angle-Grinder Rascal: Skillshare. (Another target creature you control gains the following abilities until end of turn.)
+Double strike, trample</text>
+    </card>
+    <card>
+      <name>Queer Defiance</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters under your control, Queer Defiance deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Live Life To The Fullest</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on up to one target creature you control. Create a tapped Treasure token.
+You may cast this card from your graveyard for 1R. Then exile it.</text>
+    </card>
+    <card>
+      <name>Nothing Left But One Another</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once each turn, when a creature with mana value 1 or less enters under your control, you may return target creature card with mana value 1 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Advocate of the Jailed</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever Advocate of the Jailed becomes tapped, put a +1/+1 counter on it.
+5U: This turn, creatures you control can attack as though they didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Freight-Line Vagabond</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when you cast an instant or sorcery spell, skillshare. (Another target creature you control gains the following ability until end of turn.)
+This creature can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Adler Street Audio Tech</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Vouch 2 (Tap two untapped creatures you control to vouch for this spell as you cast it.)
+When Adler Street Audio Tech enters, if it was vouched for, target creature gets -3/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Lunch Time Mutual Aid</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature you control with mana value 1 or less.
+Put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Urban Permaculturist</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Urban Permaculturist enters, you may put a land card from your hand onto the battlefield tapped.
+As long as you control five or more lands, Urban Permaculturist gets +2/+2 and has “{1}, {T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Adler Street Commons</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Adler Street Commons enters tapped.
+When Adler Street Commons enters, sacrifice it unless you tap an untapped creature or land you control.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Diversity of Tactics</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Diversity of Tactics deals 2 damage to any target.
+WUBRG, Exile Diversity of Tactics from your graveyard: It deals 4 damage to any target. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Banner Droppers</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Banner Droppers leaves your graveyard, you may pay 1G. If you do, create a token that is a copy of it.</text>
+    </card>
+    <card>
+      <name>Squatters&apos; Rebuke</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you discarded a card this turn.
+Squatters’ Rebuke deals 4 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Unvetted Punks</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vouch 1 (Tap an untapped creature you control to vouch for this spell as you cast it.)
+Haste
+When Unvetted Punks enters, if it wasn’t vouched for, return it to your hand at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Unsaid Plans</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Unsaid Plans enters, look at the top three cards of your library. Exile one face down and put the rest into your graveyard.
+{2}, Sacrifice Unsaid Plans: Put the exiled card into your hand or cloak it. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it’s a creature card.)</text>
+    </card>
+    <card>
+      <name>Digital Arsonist</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when you cast an instant or sorcery spell, skillshare. (Another target creature you control gains the following ability until end of turn.)
+Whenever this creature attacks, it deals 2 damage to defending player.</text>
+    </card>
+    <card>
+      <name>Bloc Attire</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bloc Attire enters, if it isn’t a token, create a token that is a copy of it.
+No more than one creature with an equipment named Bloc Attire attached to it can be blocked each combat.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Kitchen Crew&apos;s Propane</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{4}, {T}, Sacrifice Kitchen Crew’s Propane: It deals 3 damage to target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Ashes of the Precinct</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Ashes of the Precinct: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle.
+{1}, Exile Ashes of the Precinct from your graveyard: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Carvhill Crane Lockdown</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Barricade </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You protect a barricade.)
+When Carvhill Crane Lockdown enters, exile another target nonland permanent until Carvhill Crane Lockdown leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>DIY Shield Crew</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artificer Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When DIY Shield Crew enters, create a colorless equipment artifact token named Painted Shield with “Equipped creature gets +1/+2” and Equip {3}.</text>
+    </card>
+    <card>
+      <name>Barricade Raisers</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Barricade Raisers enters, look at the top six cards of your library. You may reveal a battle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever a battle enters under your control, create a 1/1 Rebel creature token that is all colors.</text>
+    </card>
+    <card>
+      <name>Toolshare Collective</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human  Artificer Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Toolshare Collective enters with a +1/+1 counter and a lifelink counter on it if you control an artifact.
+If you would create one or more artifact tokens, create an additional one of those tokens.</text>
+    </card>
+    <card>
+      <name>3AM Lookout Shift</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Untap up to two permanents you control during each other player’s untap step.
+Whenever you cast a spell during an opponent’s turn, surveil 2.</text>
+    </card>
+    <card>
+      <name>Resilient Care Team</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.
+1BG: Return Resilient Care Team from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)</text>
+    </card>
+    <card>
+      <name>Op-Sec Analyst</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control becomes tapped, if it isn’t attacking, put a discretion counter on it. The next time it attacks, remove all discretion counters from it and it can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Ink-Aisle Bandit</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Skillshare. (Another target creature you control gains the following abilities until end of turn.)
+Haste
+Whenever this creature deals damage to an opponent or battle, draw a card. Then discard a card unless you cast an instant or sorcery spell this turn.</text>
+    </card>
+    <card>
+      <name>Poignant Insurrecionary</name>
+      <set rarity="uncommon">APW</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Poignant Insurrecionary enters, discard a card.
+Whenever you discard one or more cards, exile them. You may play those cards during any turn that an opponent lost life.</text>
+    </card>
+    <card>
+      <name>Postcards and Commissary</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Mission </type>
+        <maintype>Battle</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Mission enters, choose an opponent to protect it.)
+Flash
+When Postcards and Commissary enters or is defeated, untap target creature and put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Escape Unidentified</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+0 until end of turn. When it dies this turn, cloak it. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it’s a creature card.)</text>
+    </card>
+    <card>
+      <name>Risk-Wary Attendee</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature attacks, exile Risk-Wary Attendee, then cloak it. (Put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up at any time for its mana cost.)</text>
+    </card>
+    <card>
+      <name>Improvised Roadblock</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever you attack, if you control two or more other artifacts, attacking creatures get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Anti-Gentrifier Frontline</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Exile this card from your graveyard: Skillshare. (Another target creature you control gains the following abilities until end of turn.)
+Whenever this creature attacks, it gets +2/+1 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Bail-Fund Signatory</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vouch 2 (Tap two untapped creatures you control to vouch for this spell as you cast it.)
+When Bail-Fund Signatory enters, if it was vouched for, return target creature card not named Bail-Fund Signatory from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rallying Chant-Leader</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters under your control, you gain 1 life and Rallying Chant-Leader gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Roving Commune</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vouch
+When Roving Commune enters, if two or more creatures vouched for it, it deals damage equal to its power to target battle.</text>
+    </card>
+    <card>
+      <name>Intertwined Struggles</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to three target battle cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Pump-Station Vandal</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Pump-Station Vandal attacks, if you control a battle, it gets +2/+0 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Pseudonymous Messenger</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Pseudonymous Messenger becomes tapped, each opponent loses 1 life and you gain 1 life.
+1B, Sacrifice Pseudonymous Messenger: Draw a card.</text>
+    </card>
+    <card>
+      <name>Street Medic</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when a card leaves your graveyard, you may skillshare. (Another target creature gains the following ability until end of turn.)
+Lifelink</text>
+    </card>
+    <card>
+      <name>Climbing the Sequoias</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 3, then draw a card. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+1G, Exile Climbing the Sequoias from your graveyard: Surveil 3.</text>
+    </card>
+    <card>
+      <name>Convergence Organizer</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vouch
+When Convergence Organizer enters, if two or more creatures vouched for it, create a tapped colorless land token named Trustworthy Venue with “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Return the Tear Gas</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn.
+You may cast Return the Tear Gas from your graveyard by paying 1B and discarding two cards. Then exile it.</text>
+    </card>
+    <card>
+      <name>Sleepless Anticipation</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you discarded a card this turn.
+Create two 1/1 Rebel creature tokens that are all colors. You lose 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Caluma Easement Trailblazer</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Caluma Easement Trailblazer enters, you may exile a basic land card you own from outside the game. If you don’t, exile the top card of your library. Until the end of your next turn, you may play the exiled card.</text>
+    </card>
+    <card>
+      <name>Housing Team Forger</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rebel Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one —
+• Create a colorless artifact token named Lockpick with “{T}, Sacrifice this token: The next spell you cast this turn can be cast as though it had flash.”
+• Create a token that is a copy of an artifact token you control.</text>
+    </card>
+    <card>
+      <name>Statue Topplers</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Statue Topplers attacks, you may tap target creature.
+3WW, Discard Statue Topplers: Exile target artifact, enchantment, or creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Unseal Delcolinas Cave</name>
+      <set rarity="common">APW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to one target creature or land card from your graveyard to your hand. Create a 1/1 black Bat creature token with flying.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
