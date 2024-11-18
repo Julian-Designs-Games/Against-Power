@@ -1435,7 +1435,7 @@
 		9 Adler Street Tenants Union
 		9 Covert Pill-Presser
 		9 Nourish the Neighborhood
-		[CommonSlot(10)]
+		[CommonSlot(11)]
 	30 Scout the Investors
 		30 Capture on Camera
 		30 The Torching of Carvhill Prison
@@ -1516,113 +1516,51 @@
 		30 Pre-Action Strategists
 		30 Delegitimize
 		30 Lockdown Legal Support
-		[WildcardSlot(2)]
-	10 Scout the Investors
-	10 Capture on Camera
-	10 The Torching of Carvhill Prison
-	10 Augustine Border Medicine Run
-	10 Yutahne Plaza Occupation
-	10 Caluma Marsh Encampment
-	10 Great Sequoia Skycamp
-	10 Evade the Authorities
-	10 Afterhours Intruder
-	10 Zine-Table Firebrand
-	10 Lens Busting
-	10 Pill-Pilferer
-	10 Moonlit Planting
-	10 Sabotage Trio
-	10 Cautious Assembly
-	10 Bitter Assembly
-	10 Agitative Assembly
-	10 Steadfast Assembly
-	10 Bustling Avenue
-	10 Distro Culinaire
-	10 Flooded Underpass
-	10 Crumbling Alley
-	10 Roaring Interstate
-	10 Overgrown Backroad
-	10 Decentralized Offensive
-	10 Scouting Bike
-	10 Kickflip
-	10 Switch to a Burner
-	10 In the Public Eye
-	10 New Years Noise Demo
-	10 Post-Convergence Partiers
-	10 Come to Consensus
-	10 Camp Rooster
-	10 Experienced Trespasser
-	10 Turnstile Dodger
-	10 Bail Fund Benefit Show
-	10 Legal Defense Counsel
-	10 Resolute Ecologist
-	10 Wayward Station
-	10 Risk Level Red
-	10 Supply Drop
-	10 Angle-Grinder Rascal
-	10 Heavy U-Lock
-	10 Z-Rox Zine Machine
-	10 Queer Defiance
-	10 Live Life To The Fullest
-	10 Nothing Left But One Another
-	10 Advocate of the Jailed
-	10 Freight-Line Vagabond
-	10 Autonomous Mesh Network
-	10 Rooftop Gardener
-	10 Diversity of Tactics
-	10 Soup-Table Gossip
-	10 Learn As Stories, Not Rules
-	10 Squatters' Rebuke
-	10 Unvetted Punks
-	10 Unsaid Plans
-	10 Digital Arsonist
-	10 Bloc Attire
-	10 Kitchen Crew's Propane
-	10 Co-op Free Pile
-	10 Ashes of the Precinct
-	10 Carvhill Crane Lockdown
-	10 DIY Shield Crew
-	10 Barricade Raisers
-	10 Toolshare Collective
-	10 3AM Lookout Shift
-	10 Resilient Care Team
-	10 Youth Uprising
-	10 Iron-Spike Arborists
-	10 Op-Sec Analyst
-	10 Ink-Aisle Bandit
-	10 Poignant Insurrectionary
-	10 Postcards and Commissary
-	10 Escape Unidentified
-	10 Old Friends, New Names
-	10 Improvised Roadblock
-	10 Anti-Gentrifier Frontline
-	10 Strategic Debrief
-	10 Bail-Fund Signatory
-	10 Rallying Chant-Leader
-	10 San Damiano Port Blockade
-	10 Morgan Park Autonomous Zone
-	10 Roving Commune
-	10 Intertwined Struggles
-	10 Pump-Station Vandal
-	10 Pseudonymous Messenger
-	10 At The Speed Of Trust
-	10 Street Medic
-	10 Climbing the Sequoias
-	10 Convergence Organizer
-	10 Return the Tear Gas
-	10 Sleepless Anticipation
-	10 Caluma Easement Trailblazer
-	10 Housing Team Forger
-	10 Statue Topplers
-	10 Unseal Delcolinas Cave
-	10 Salvaged Spokes Bike Distro
-	10 Morgan Park Cop Watch
-	10 Foraging Herbalist
-	10 Militant Assembly
-	10 Paint the Streets Defiant
-	10 Arms-Linked Obstinates
-	10 Threat Modeling
-	10 Interrupt Arrest
-	10 Supply Tent Coordinator
+		[WildcardSlot(1)]
+	9 Yutahne Plaza Occupation
+		9 Caluma Marsh Encampment
+		9 Great Sequoia Skycamp
+		9 Zine-Table Firebrand
+		9 Lens Busting
+		9 Pill-Pilferer
+		9 Moonlit Planting
+		9 Sabotage Trio
+		9 Distro Culinaire
+		9 Bail Fund Benefit Show
+		9 Legal Defense Counsel
+		9 Resolute Ecologist
+		9 Wayward Station
+		9 Risk Level Red
+		9 Heavy U-Lock
+		9 Z-Rox Zine Machine
+		9 Queer Defiance
+		9 Nothing Left But One Another
+		9 Autonomous Mesh Network
+		9 Learn As Stories, Not Rules
+		9 Co-op Free Pile
+		9 Barricade Raisers
+		9 Toolshare Collective
+		9 3AM Lookout Shift
+		9 Resilient Care Team
+		9 Youth Uprising
+		9 Iron-Spike Arborists
+		9 Op-Sec Analyst
+		9 Ink-Aisle Bandit
+		9 Poignant Insurrectionary
+		9 Old Friends, New Names
+		9 Strategic Debrief
+		9 San Damiano Port Blockade
+		9 Morgan Park Autonomous Zone
+		9 Intertwined Struggles
+		9 At The Speed Of Trust
+		9 The May Day Book Fair
+		9 Enter the Black Snake
+		9 An Oasis For Migrants
+		9 Adler Street Mask Distro
+		9 Disappearing Messages
+		9 Adler Street Tenants Union
+		9 Covert Pill-Presser
+		9 Nourish the Neighborhood
 	10 Lex, Doctrine of One Truth
 	10 Annoto, Alienated Spectator
 	10 Adroganta, the Self Above All
@@ -1638,22 +1576,4 @@
 	10 Stirpi, Pure-Blooded Nation
 	10 Crescero, Myth of Utopia
 	10 Against Power
-	10 Foreclosed Townhouse
-	10 Banner Droppers
-	10 Aerial Videographer
-	10 Streetlamp Splicer
-	10 Refuse the Plea Deal
-	10 Database Breachers
-	10 Unlearn
-	10 The May Day Book Fair
-	10 Pre-Action Strategists
-	10 Delegitimize
-	10 Lockdown Legal Support
-	10 Enter the Black Snake
-	10 An Oasis For Migrants
-	10 Adler Street Mask Distro
-	10 Disappearing Messages
-	10 Adler Street Tenants Union
-	10 Covert Pill-Presser
-	10 Nourish the Neighborhood
 	
